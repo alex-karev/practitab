@@ -16,7 +16,7 @@ Browser extension that replaces the default new tab with a more practical, funct
 
 ## Usage
 
-Firefox: TODO 
+Firefox: *Awaiting Review*
 
 Chrome: NOT OFFICIALLY SUPPORTED (YET)
 
@@ -32,6 +32,8 @@ git clone git@github.com:alex-karev/practitab.git
 
 ```bash
 cd practitab
+npm init
+npm install
 npm run build
 ``` 
 
