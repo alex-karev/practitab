@@ -16,7 +16,7 @@ Browser extension that replaces the default new tab with a more practical, funct
 
 ## Usage
 
-Firefox: *Awaiting Review*
+Firefox: [*Awaiting Review*](https://addons.mozilla.org/en-US/firefox/addon/practitab-new-tab/)
 
 Chrome: NOT OFFICIALLY SUPPORTED (YET)
 
