@@ -1,0 +1,44 @@
+{
+  "rootFolder": "root________",
+  "fontFamily": "Arial",
+  "bgColorOne": "#313244",
+  "bgColorTwo": "#585b70",
+  "darkMode": true,
+  "searchButtonVariant": "dark",
+  "homeButtonVariant": "outline-light",
+  "heroImage": "hero.png",
+  "heroBorderRadius": 25, 
+  "heroShadow": 50, 
+  "fadeImage": "fade.svg",
+  "fadeOpacity": 20,
+  "fadeHeight": 50,
+  "backgroundImage": "",
+  "gradientAngle": 60,
+  "searchEngines": [
+    {
+      "name": "Google",
+      "homeUrl": "https://google.com/",
+      "queryUrl": "https://www.google.com/search?q=",
+      "buttonText": "Google!"
+    },
+    {
+      "name": "Yandex",
+      "homeUrl": "https://yandex.ru/",
+      "queryUrl": "https://yandex.ru/search/?text=",
+      "buttonText": "Найти!"
+    },
+    {
+      "name": "DuckDuckGo",
+      "homeUrl": "https://duckduckgo.com/",
+      "queryUrl": "https://duckduckgo.com/?q=",
+      "buttonText": "Duck!"
+    },
+    {
+      "name": "Baidu",
+      "homeUrl": "https://www.baidu.com/",
+      "queryUrl": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&rqlang=cn&wd=",
+      "buttonText": "百度一下!"
+    }
+  ],
+  "customCSS": ""
+}

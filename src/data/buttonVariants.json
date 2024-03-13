@@ -1,0 +1,18 @@
+{
+  "dark": "dark",
+  "outline-dark": "outline-dark",
+  "light": "light",
+  "outline-light": "outline-light",
+  "gray": "secondary",
+  "outline-gray": "outline-secondary",
+  "green": "success",
+  "outline-green": "outline-success",
+  "yellow": "warning",
+  "outline-yellow": "outline-warning",
+  "red": "danger",
+  "outline-red": "outline-danger",
+  "blue": "primary",
+  "outline-blue": "outline-primary",
+  "sky": "info",
+  "outline-sky": "outline-info"
+}

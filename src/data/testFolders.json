@@ -1,0 +1,67 @@
+[
+  {
+    "id": "root________",
+    "title": "root",
+    "level": 0
+  },
+  {
+    "id": "menu________",
+    "title": "Bookmarks Menu",
+    "level": 1
+  },
+  {
+    "id": "_DrU4zrWdLLn",
+    "title": "Mozilla Firefox",
+    "level": 2
+  },
+  {
+    "id": "DstF-VM0RUYt",
+    "title": "Manjaro Linux",
+    "level": 2
+  },
+  {
+    "id": "toolbar_____",
+    "title": "Bookmarks Toolbar",
+    "level": 1
+  },
+  {
+    "id": "unfiled_____",
+    "title": "Other Bookmarks",
+    "level": 1
+  },
+  {
+    "id": "usTV2MY-qoWh",
+    "title": "Gamedev",
+    "level": 2
+  },
+  {
+    "id": "3JYCjnNZjVE1",
+    "title": "Fun",
+    "level": 2
+  },
+  {
+    "id": "n1NBhWNWrPQi",
+    "title": "Study",
+    "level": 2
+  },
+  {
+    "id": "TA1w2f-fSEoA",
+    "title": "Work",
+    "level": 2
+  },
+  {
+    "id": "EHrozeP5qx0h",
+    "title": "Social",
+    "level": 2
+  },
+  {
+    "id": "I4YMGLosm66h",
+    "title": "Tools",
+    "level": 2
+  },
+  {
+    "id": "mobile______",
+    "title": "Mobile Bookmarks",
+    "level": 1
+  }
+]

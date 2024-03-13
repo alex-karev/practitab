@@ -1,0 +1,216 @@
+[
+  {
+    "name": "Gamedev",
+    "items": [
+      {
+        "name": "Godot API",
+        "url": "https://docs.godotengine.org/en/stable/classes/index.html"
+      },
+      {
+        "name": "Github",
+        "url": "https://github.com/"
+      },
+      {
+        "name": "Itch.io",
+        "url": "https://itch.io/"
+      },
+      {
+        "name": "Steamspy",
+        "url": "https://steamspy.com/"
+      },
+      {
+        "name": "OpenGameArt",
+        "url": "https://opengameart.org/"
+      },
+      {
+        "name": "Freesound",
+        "url": "https://freesound.org/"
+      },
+      {
+        "name": "Lospec",
+        "url": "https://lospec.com/"
+      }
+    ]
+  },
+  {
+    "name": "Fun",
+    "items": [
+      {
+        "name": "Youtube",
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "name": "YT Music",
+        "url": "https://music.youtube.com/"
+      },
+      {
+        "name": "Bilibili",
+        "url": "https://www.bilibili.com"
+      },
+      {
+        "name": "iQIYI",
+        "url": "https://www.iqiyi.com/?iqiyi=o"
+      },
+      {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/"
+      },
+      {
+        "name": "YTS",
+        "url": "https://yts.am/"
+      },
+      {
+        "name": "Rutracker",
+        "url": "https://rutracker.net/"
+      },
+      {
+        "name": "Nyaa.si",
+        "url": "https://nyaa.si/"
+      }
+    ]
+  },
+  {
+    "name": "Study",
+    "items": [
+      {
+        "name": "Scholar",
+        "url": "https://scholar.google.com/"
+      },
+      {
+        "name": "Mybib",
+        "url": "https://www.mybib.com/tools/harvard-referencing-generator"
+      },
+      {
+        "name": "Grammarly",
+        "url": "https://app.grammarly.com/"
+      },
+      {
+        "name": "GPTZero",
+        "url": "https://gptzero.me/"
+      },
+      {
+        "name": "Open Library",
+        "url": "https://openlibrary.org/"
+      },
+      {
+        "name": "Z-Library",
+        "url": "https://singlelogin.re/"
+      },
+      {
+        "name": "BKRS",
+        "url": "https://bkrs.info/"
+      },
+      {
+        "name": "Google Translate",
+        "url": "https://translate.google.com/"
+      }
+    ]
+  },
+  {
+    "name": "Work",
+    "items": [
+      {
+        "name": "Upwork",
+        "url": "https://www.upwork.com/"
+      },
+      {
+        "name": "Jitsi",
+        "url": "https://meet.jit.si/"
+      },
+      {
+        "name": "Gmail",
+        "url": "https://mail.google.com/"
+      },
+      {
+        "name": "Yandex Mail",
+        "url": "https://mail.yandex.ru/"
+      },
+      {
+        "name": "Mail.ru",
+        "url": "https://mail.ru/"
+      },
+      {
+        "name": "REG.ru",
+        "url": "https://www.reg.ru/"
+      },
+      {
+        "name": "SpaceWeb",
+        "url": "https://sweb.ru/"
+      },
+      {
+        "name": "Proton",
+        "url": "https://proton.me/"
+      }
+    ]
+  },
+  {
+    "name": "Social",
+    "items": [
+      {
+        "name": "Reddit",
+        "url": "https://reddit.com/"
+      },
+      {
+        "name": "WhatsApp",
+        "url": "https://web.whatsapp.com/"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/"
+      },
+      {
+        "name": "VK",
+        "url": "https://vk.com/"
+      },
+      {
+        "name": "2ch.hk",
+        "url": "https://2ch.hk/"
+      },
+      {
+        "name": "4chan",
+        "url": "https://4chan.org/"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/"
+      }
+    ]
+  },
+  {
+    "name": "Tools",
+    "items": [
+      {
+        "name": "ChatGPT",
+        "url": "https://chat.openai.com"
+      },
+      {
+        "name": "Oobabooga",
+        "url": "http://127.0.0.1:7860"
+      },
+      {
+        "name": "Colab",
+        "url": "https://colab.research.google.com/"
+      },
+      {
+        "name": "Google Drive",
+        "url": "https://drive.google.com/"
+      },
+      {
+        "name": "Calibre",
+        "url": "http://127.0.0.1:4040"
+      },
+      {
+        "name": "V2rayA",
+        "url": "http://127.0.0.1:2017"
+      },
+      {
+        "name": "Mitmproxy",
+        "url": "http://127.0.0.1:8081"
+      },
+      {
+        "name": "Http Server",
+        "url": "http://127.0.0.1"
+      }
+    ]
+  }
+]
