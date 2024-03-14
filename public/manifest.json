@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Practitab - New Tab",
-  "version": "1.0",
+  "version": "1.1",
   "author": "Alex Karev",
   "description": "Replaces the default new tab with a more practical, functional and customizable alternative.",
   "icons": {
@@ -21,7 +21,7 @@
   "browser_specific_settings": {
     "gecko": {
       "id": "alex-karev@practitab",
-      "strict_min_version": "42.0"
+      "strict_min_version": "55.0"
     }
   }
 }
